@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.Sephiroth.ImageZoom.Droid</id>
+        <version>1.0.4</version>
+        <description>Xamarin Android Binding Library - Sephiroth ImageZoom</description>
+        <authors>Vu Duc Tuyen</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - Sephiroth ImageZoom</title>
+        <releaseNotes>Sephiroth ImageZoom v1.0.4</releaseNotes>
+        <summary>Xamarin Binding Library - Sephiroth ImageZoom</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/xand-imagezoom</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, imagezoom, image-zoom</tags>
+        <dependencies>
+        </dependencies>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.Sephiroth.ImageZoom.Droid/bin/Release/Naxam.Sephiroth.ImageZoom.Droid.dll" target="lib/MonoAndroid10/Naxam.Sephiroth.ImageZoom.Droid.dll" />
+    </files>
+</package>
