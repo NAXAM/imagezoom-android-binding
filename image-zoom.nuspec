@@ -3,19 +3,20 @@
     <metadata>
         <!-- Required elements-->
         <id>Naxam.Sephiroth.ImageZoom.Droid</id>
-        <version>1.0.4</version>
+        <version>1.0.4.1</version>
         <description>Xamarin Android Binding Library - Sephiroth ImageZoom</description>
         <authors>Vu Duc Tuyen</authors>
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Naxam - Sephiroth ImageZoom</title>
-        <releaseNotes>Sephiroth ImageZoom v1.0.4</releaseNotes>
+        <releaseNotes>Sephiroth ImageZoom v1.0.4.1</releaseNotes>
         <summary>Xamarin Binding Library - Sephiroth ImageZoom</summary>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/NAXAM/xand-imagezoom</projectUrl>
         <copyright>Copyright (c) 2017 NAXAM</copyright>
         <tags>Xamarin.Android, imagezoom, image-zoom</tags>
         <dependencies>
+            <dependency id="Naxam.Sephiroth.Easing.Droid" version="1.0.2" />
         </dependencies>
     </metadata>
     <!-- Optional 'files' node -->
